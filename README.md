@@ -1,4 +1,4 @@
-# Project Title
+# QSS2024Proj by Huang et al.(2024)
 
 This repository contains code for visualizing results using Stata do files and nine datasets, one in CSV format and eight in dta format.
 
