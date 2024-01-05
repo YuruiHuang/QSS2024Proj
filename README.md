@@ -1,0 +1,1 @@
+We have provided the data and accompanying codes used in the possible publication of the Quantitative Science Study(QSS). The open access to this repository allows for transparency and reproducibility of the main findings presented in the associated research or project. 
